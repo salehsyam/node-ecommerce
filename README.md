@@ -3,7 +3,7 @@
 
 E-Commerce Web application built using Express and MongoDB
 Fully functioning Ecommerce web app 
-## Technologies
+#:computer: Technologies
 This project was made using the follow technologies:
 <ul>
 <li><a href="https://nodejs.org/en/">Node.js</a></li>
@@ -23,7 +23,7 @@ This project was made using the follow technologies:
 Install my-project with npm
 
 ```bash
-   git clone  
+   git clone  https://github.com/salehsyam/node-ecommerce.git
    cd my-project
    npm install 
 ```

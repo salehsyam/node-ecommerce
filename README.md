@@ -17,6 +17,7 @@ This project was made using the follow technologies:
   <li>Invoice generation</li>
   <li>Secure payments via Stripe.js</li>
 </ul>
+
 ## Installation
 
 Install my-project with npm

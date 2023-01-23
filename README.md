@@ -3,7 +3,8 @@
 
 E-Commerce Web application built using Express and MongoDB
 Fully functioning Ecommerce web app 
-#:computer: Technologies
+
+# :computer: Technologies
 This project was made using the follow technologies:
 <ul>
 <li><a href="https://nodejs.org/en/">Node.js</a></li>
